@@ -64,14 +64,14 @@ with open("./output/top_10_occupations.txt", "w") as f1:
     f1.write("TOP_OCCUPATIONS;NUMBER_CERTIFIED_APPLICATIONS;PERCENTAGE\n")
     for i in range(len(res_occu)):
         if occupation[res_occu[i]][1] > 0:
-           f1.write(res_occu[i] + ";" + str(occupation[res_occu[i]][1]) + ";" + "{0:.1f}%".format(occupation[res_occu[i]][2]*100) + "\n")
+           f1.write(res_occu[i] + ";" + str(occupation[res_occu[i]][1]) + ";" + "{:.1f}%".format(occupation[res_occu[i]][2]*100) + "\n")
 
 f_state = open('./output/top_10_states.txt', 'w')
 with open("./output/top_10_states.txt", "w") as f2:
     f2.write("TOP_STATES;NUMBER_CERTIFIED_APPLICATIONS;PERCENTAGE\n")
     for i in range(len(res_state)):
         if state[res_state[i]][1] > 0:
-            f2.write(res_state[i] + ";" + str(state[res_state[i]][1]) + ";" + "{0:.1f}%".format(state[res_state[i]][2]*100) + "\n")
+            f2.write(res_state[i] + ";" + str(state[res_state[i]][1]) + ";" + "{:.1f}%".format(state[res_state[i]][2]*100) + "\n")
 
 
 
