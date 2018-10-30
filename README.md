@@ -14,6 +14,8 @@ The code should be modular and reusable for future. If the newspaper gets data f
 * wrote to .txt file
 
 ## Run Instruction
+Note that, the location where the work take place might change with different datasets. A variable called "num" is used to describe the location of such parameter in a given table, so that it needs to be modified based on the info of the table 
+
 You can run h1b_counting.py with the following command from within the current directory:
 
 ./run.sh 
