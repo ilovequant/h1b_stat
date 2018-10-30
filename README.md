@@ -9,7 +9,8 @@ The code should be modular and reusable for future. If the newspaper gets data f
 ## Approach
 * read from .csv file by line
 * applied regular expression to find the occupation. As the occupation follows Standard Occupational Classification (SOC) code, one can locate the SOC code with specific format first and then find the occupation after ";"
-* Used hashtables to store the numbers of interest corresponding to the occupation as well as the state
+* used hashtables to store the numbers of interest corresponding to the occupation as well as the state
+* sorted hashtables based on the value. If the value is equal, then sort by alphabetical order of the key
 * wrote to .txt file
 
 ## Run Instruction
