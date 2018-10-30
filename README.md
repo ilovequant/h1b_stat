@@ -18,12 +18,12 @@ Note that, the location where the work take place might change with different da
 
 You can run h1b_counting.py with the following command from within the current directory:
 
-./run.sh 
+    ./run.sh 
 
 
 You can run the test with the following command from within the insight_testsuite folder:
 
-./run_tests.sh 
+     ./run_tests.sh 
 
 
 ## Results
@@ -55,6 +55,32 @@ the rank of the state:
         GA;16080;3.5%
         WA;15581;3.4%
         FL;15563;3.4%
+        
+ While for 2016: 
+ 
+        TOP_OCCUPATIONS;NUMBER_CERTIFIED_APPLICATIONS;PERCENTAGE
+        SOFTWARE DEVELOPERS, APPLICATIONS;106682;18.7%
+        COMPUTER SYSTEMS ANALYSTS;88094;15.5%
+        COMPUTER PROGRAMMERS;72097;12.7%
+        COMPUTER OCCUPATIONS, ALL OTHER;48585;8.5%
+        SOFTWARE DEVELOPERS, SYSTEMS SOFTWARE;19327;3.4%
+        COMPUTER SYSTEMS ANALYST;16682;2.9%
+        MANAGEMENT ANALYSTS;13850;2.4%
+        ACCOUNTANTS AND AUDITORS;10170;1.8%
+        NETWORK AND COMPUTER SYSTEMS ADMINISTRATORS;9873;1.7%
+        MECHANICAL ENGINEERS;8291;1.5%
+        
+        TOP_STATES;NUMBER_CERTIFIED_APPLICATIONS;PERCENTAGE
+        CA;104070;18.3%
+        TX;59693;10.5%
+        NY;51293;9.0%
+        NJ;43174;7.6%
+        IL;31269;5.5%
+        GA;22229;3.9%
+        MA;21644;3.8%
+        PA;21141;3.7%
+        WA;20387;3.6%
+        FL;18684;3.3%
 
 
 
