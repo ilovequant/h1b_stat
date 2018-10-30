@@ -12,5 +12,15 @@ The code should be modular and reusable for future. If the newspaper gets data f
 * Used hashtables to store the numbers of interest corresponding to the occupation as well as the state
 * wrote to .txt file
 
+## Run Instruction
+You can run h1b_counting.py with the following command from within the current directory:
+'''
+./run.sh 
+'''
+
+You can run the test with the following command from within the insight_testsuite folder:
+'''
+insight_testsuite~$ ./run_tests.sh 
+'''
 
 
