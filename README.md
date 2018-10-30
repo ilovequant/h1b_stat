@@ -7,10 +7,10 @@ As a data engineer, create a mechanism to analyze past years data, specificially
 The code should be modular and reusable for future. If the newspaper gets data for the year 2019 (with the assumption that the necessary data to calculate the metrics are available) and puts it in the input directory, running the run.sh script should produce the results in the output folder without needing to change the code.
 
 ## Approach
-*read from .csv file by line
-*Applied regular expression to find the occupation. As the occupation follows Standard Occupational Classification (SOC) code, one can locate the SOC code with specific format first and then find the occupation after ";"
-*Used hashtables to store the numbers of interest corresponding to occupation as well as state
-*wrote to .txt file
+* read from .csv file by line
+* Applied regular expression to find the occupation. As the occupation follows Standard Occupational Classification (SOC) code, one can locate the SOC code with specific format first and then find the occupation after ";"
+* Used hashtables to store the numbers of interest corresponding to occupation as well as state
+* wrote to .txt file
 
 
 
