@@ -15,13 +15,13 @@ The code should be modular and reusable for future. If the newspaper gets data f
 ## Run Instruction
 You can run h1b_counting.py with the following command from within the current directory:
 
-'''console
+'''{r, engine='bash', count_lines}
 ./run.sh 
 '''
 
 You can run the test with the following command from within the insight_testsuite folder:
 
-'''console
+'''{r, engine='bash', count_lines}
 insight_testsuite~$ ./run_tests.sh 
 '''
 
