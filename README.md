@@ -21,7 +21,7 @@ You can run h1b_counting.py with the following command from within the current d
     ./run.sh 
 
 
-You can run the test with the following command from within the insight_testsuite folder:
+You can also run the test with the following command from within the insight_testsuite folder:
 
      ./run_tests.sh 
 
