@@ -27,30 +27,30 @@ You can run the test with the following command from within the insight_testsuit
 ## Results
 using the dataset of H1B_FY_2014.csv, it can be found:
 
-TOP_OCCUPATIONS;NUMBER_CERTIFIED_APPLICATIONS;PERCENTAGE
-Computer Systems Analysts;85219;18.7%
-Software Developers, Applications;68258;15.0%
-Computer Programmers;64875;14.3%
-Computer Occupations, All Other;36441;8.0%
-Software Developers, Systems Software;13808;3.0%
-Management Analysts;10454;2.3%
-Accountants and Auditors;8490;1.9%
-Financial Analysts;7718;1.7%
-Network and Computer Systems Administrators;7286;1.6%
-Mechanical Engineers;6486;1.4%
+        TOP_OCCUPATIONS;NUMBER_CERTIFIED_APPLICATIONS;PERCENTAGE
+        Computer Systems Analysts;85219;18.7%
+        Software Developers, Applications;68258;15.0%
+        Computer Programmers;64875;14.3%
+        Computer Occupations, All Other;36441;8.0%
+        Software Developers, Systems Software;13808;3.0%
+        Management Analysts;10454;2.3%
+        Accountants and Auditors;8490;1.9%
+        Financial Analysts;7718;1.7%
+        Network and Computer Systems Administrators;7286;1.6%
+        Mechanical Engineers;6486;1.4%
 
 
-TOP_OCCUPATIONS;NUMBER_CERTIFIED_APPLICATIONS;PERCENTAGE
-Computer Systems Analysts;85219;18.7%
-Software Developers, Applications;68258;15.0%
-Computer Programmers;64875;14.3%
-Computer Occupations, All Other;36441;8.0%
-Software Developers, Systems Software;13808;3.0%
-Management Analysts;10454;2.3%
-Accountants and Auditors;8490;1.9%
-Financial Analysts;7718;1.7%
-Network and Computer Systems Administrators;7286;1.6%
-Mechanical Engineers;6486;1.4%
+        TOP_OCCUPATIONS;NUMBER_CERTIFIED_APPLICATIONS;PERCENTAGE
+        Computer Systems Analysts;85219;18.7%
+        Software Developers, Applications;68258;15.0%
+        Computer Programmers;64875;14.3%
+        Computer Occupations, All Other;36441;8.0%
+        Software Developers, Systems Software;13808;3.0%
+        Management Analysts;10454;2.3%
+        Accountants and Auditors;8490;1.9%
+        Financial Analysts;7718;1.7%
+        Network and Computer Systems Administrators;7286;1.6%
+        Mechanical Engineers;6486;1.4%
 
 
 
