@@ -42,17 +42,17 @@ using the dataset of H1B_FY_2014.csv, it can be found for the rank of the occupa
 
 the rank of the state:
 
-        TOP_OCCUPATIONS;NUMBER_CERTIFIED_APPLICATIONS;PERCENTAGE
-        Computer Systems Analysts;85219;18.7%
-        Software Developers, Applications;68258;15.0%
-        Computer Programmers;64875;14.3%
-        Computer Occupations, All Other;36441;8.0%
-        Software Developers, Systems Software;13808;3.0%
-        Management Analysts;10454;2.3%
-        Accountants and Auditors;8490;1.9%
-        Financial Analysts;7718;1.7%
-        Network and Computer Systems Administrators;7286;1.6%
-        Mechanical Engineers;6486;1.4%
+        TOP_STATES;NUMBER_CERTIFIED_APPLICATIONS;PERCENTAGE
+        CA;85162;18.7%
+        TX;45091;9.9%
+        NY;42164;9.3%
+        NJ;33242;7.3%
+        IL;24414;5.4%
+        PA;17167;3.8%
+        MA;17112;3.8%
+        GA;16080;3.5%
+        WA;15581;3.4%
+        FL;15563;3.4%
 
 
 
