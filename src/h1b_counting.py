@@ -33,10 +33,11 @@ with open('./input/h1b_input.csv', 'r') as f:
                             occupation[items[idx + 1]][1] += 1
 
             # update state dictionary
-            if items[-3] in state:
-                state[items[-3]][0] += 1
+            num = 14  # the location of the worksite state count from the end of the table
+            if items[-num] in state:
+                state[items[-num]][0] += 1
                 if cert:
-                    state[items[-3]][1] += 1
+                    state[items[-num]][1] += 1
 
             cert = False  # flag
 
