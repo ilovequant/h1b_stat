@@ -25,7 +25,7 @@ You can run the test with the following command from within the insight_testsuit
 
 
 ## Results
-using the dataset of H1B_FY_2014.csv, it can be found:
+using the dataset of H1B_FY_2014.csv, it can be found for the rank of the occupation:
 
         TOP_OCCUPATIONS;NUMBER_CERTIFIED_APPLICATIONS;PERCENTAGE
         Computer Systems Analysts;85219;18.7%
@@ -39,6 +39,8 @@ using the dataset of H1B_FY_2014.csv, it can be found:
         Network and Computer Systems Administrators;7286;1.6%
         Mechanical Engineers;6486;1.4%
 
+
+the rank of the state:
 
         TOP_OCCUPATIONS;NUMBER_CERTIFIED_APPLICATIONS;PERCENTAGE
         Computer Systems Analysts;85219;18.7%
